@@ -17,4 +17,4 @@
 - April generated the highest sales.
 - Most orders were shipped successfully.
 
-- ![Dashboard](images/dashboard.png)
+- Dashboard Screenshot.png

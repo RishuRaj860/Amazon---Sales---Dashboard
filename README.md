@@ -16,3 +16,5 @@
 - T-shirt is the highest selling category.
 - April generated the highest sales.
 - Most orders were shipped successfully.
+
+- ![Dashboard](images/dashboard.png)
